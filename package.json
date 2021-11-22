@@ -1,0 +1,13 @@
+{
+  "name": "@dylan/ip-limiter",
+  "version": "0.1.0",
+  "description": "Middleware for Dylan which limits requests by ip address.",
+  "license": "MIT",
+  "keywords": [
+    "middleware",
+    "dylan"
+  ],
+  "repository": "shanebo/ip-limiter",
+  "author": "Shane Thacker <shane@steadymade.com>",
+  "main": "./index"
+}
